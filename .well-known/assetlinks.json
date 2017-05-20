@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.ionic.ruservice",
+    "sha256_cert_fingerprints":
+    ["83:0D:82:39:C4:25:67:0A:BA:58:91:0E:66:7B:3F:AD:31:D7:5D:4B:F4:C9:37:92:B0:55:61:8D:14:0D:50:63"]
+  }
+}]
